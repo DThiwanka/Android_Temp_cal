@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="et_value">Enter Temp Value</string>
+    <string name="btn_celsius">Celsius</string>
+    <string name="btn_fahrenheit">Fahrenheit</string>
+    <string name="btn_calculate">CALCULATE</string>
+    <string name="et_view">Value</string>
+</resources>
